@@ -1,5 +1,5 @@
 # Holographic-Superconductor
-This project simulates a holographic superconductor by solving non-linear gravitational field equations. Using Python, I built a computational pipeline featuring SciPy’s Radau integration for stiff systems and Brent’s algorithm for boundary conditions. It successfully reproduces benchmark phase transition results.
+This repository contains a high-precision numerical simulator for a holographic superconductor, developed in Python. Based on the AdS/CFT correspondence (gauge/gravity duality), the project models a (2+1)-dimensional strongly correlated superconducting system by solving the coupled nonlinear field equations of a (3+1)-dimensional classical gravitational dual. The model demonstrates the spontaneous breaking of a global U(1) symmetry via the formation of scalar "hair" around an Anti-de Sitter (AdS) planar black hole, signaling a second-order phase transition to a superconducting state when the temperature drops below a critical threshold, $T_c$
 # Key-Features
  - Numerical Pipeline: Converts complex boundary-value problems into efficient, solvable initial-value problems.
  - Stable Integration: Utilizes implicit Runge-Kutta (Radau) methods to handle stiffness near the black hole horizon.
