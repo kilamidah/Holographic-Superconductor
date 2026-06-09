@@ -13,4 +13,4 @@ Libraries = NumPy, SciPy, Matplotlib
  3. "pip install scipy"
  4. "pip install matplotlib"
 # Academic Context
-This work was completed as part of my BSc in Theoretical Physics at Swansea University (2026). It demonstrates the bridge between general relativity, condensed matter physics, and computational science.
+This work was completed as part of my BSc in Theoretical Physics. It demonstrates the bridge between general relativity, condensed matter physics, and computational science.
