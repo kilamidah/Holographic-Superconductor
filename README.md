@@ -10,10 +10,12 @@ Language = Python
 Libraries = NumPy, SciPy, Matplotlib
 # How To Run
 Download the necessary python project file. This is named "Holographic Superconductor.py"
+
 Before running make sure the three necessary libraries are all correctly installed. Run below codes individually.
  1. "pip install numpy"
  3. "pip install scipy"
  4. "pip install matplotlib"
+
 Now run the main python file.
 # Academic Context
 This work was completed as part of my BSc in Theoretical Physics. It demonstrates the bridge between general relativity, condensed matter physics, and computational science.
