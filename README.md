@@ -9,7 +9,8 @@ Language = Python
 
 Libraries = NumPy, SciPy, Matplotlib
 # How To Run
- - Make sure the three necessary libraries are all correctly installed. Run below codes individually.
+Download the necessary python project file. This is named
+Make sure the three necessary libraries are all correctly installed. Run below codes individually.
  1. "pip install numpy"
  3. "pip install scipy"
  4. "pip install matplotlib"
