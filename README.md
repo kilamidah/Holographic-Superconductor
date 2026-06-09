@@ -6,6 +6,7 @@ This project simulates a holographic superconductor by solving non-linear gravit
  - Physical Validation: Reproduces established benchmark results, confirming accuracy in modeling spontaneous symmetry breaking.
 # Technical Stack
 Language = Python
+
 Libraries = NumPy, SciPy, Matplotlib
 # How To Run
  - Make sure the three necessary libraries are all correctly installed. Run below codes individually.
